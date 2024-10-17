@@ -89,8 +89,28 @@ for url in urls:
                 print("-" * 50)
 
                 # Navigate to the stats tab and select it
-                stats_tab = driver.find_element(By.XPATH, '//*[@id="detail"]/div[7]/div/a[2]/button')
-                stats_tab.send_keys(Keys.ENTER)
+                standings_tab = driver.find_element(By.XPATH, '//*[@id="detail"]/div[6]/div/a[5]')
+                standings_tab.send_keys(Keys.ENTER)
+                wait(10)
+
+                home_rank = 0
+                away_rank = 0
+                # Get the current page content
+                match_html = driver.page_source
+                match_soup = BeautifulSoup(match_html, "html.parser")
+                wait()
+
+                team_ranks = match_soup.find_all("div", class_="table__row--selected")
+                print(len(team_ranks), "teams found...")
+                for team in team_ranks:
+                    team_rank = team.find("div", class_="tableCellRank").getText().split(".")[0]
+                    print("Team rank:", team_rank)
+                    team_name = team.find("a", class_="tableCellParticipant__name").getText()
+                    print("Team name:", home_team, away_team)
+                    if team_name == home_team:
+                        home_rank += int(team_rank)
+                    else:
+                        away_rank += int(team_rank)
 
                 # Compile and add the data for the current match into the data array
                 match_data = {
@@ -99,18 +119,27 @@ for url in urls:
                     "home_team_score": home_team_score or np.nan,
                     "away_team": away_team or np.nan,
                     "away_team_score": away_team_score or np.nan,
-                    "season": current_season
+                    "season": current_season,
+                    "current_home_rank": home_rank,
+                    "current_away_rank": away_rank,
                 }
                 data[current_season].append(match_data)
 
                 # Close the current tab and switch back to the original window
                 driver.close()
                 driver.switch_to.window(driver.window_handles[0])
+                wait()
             except Exception as e:
                 print("Error accessing match details ---", e)
+                continue
     except Exception as e:
         print("error:", e)
 
 # Writing the data into a json file...
-with open("pl-data.json", "w") as file:
-    json.dump(data, file, indent=4)
+try:
+    with open("pl-data-updated.json", "w") as file:
+        json.dump(data, file, indent=4)
+except Exception as e:
+    print("Error saving data to json:", e)
+else:
+    print("Successfully saved data to 'pl-data-updated.json'")
