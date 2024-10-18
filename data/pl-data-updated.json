@@ -1,0 +1,4506 @@
+{
+    "2024/2025": [
+        {
+            "match_date": "06.10.",
+            "home_team": "Brighton",
+            "home_team_score": "3",
+            "away_team": "Tottenham",
+            "away_team_score": "2",
+            "season": "2024/2025",
+            "current_home_rank": 6,
+            "current_away_rank": 9
+        },
+        {
+            "match_date": "06.10.",
+            "home_team": "Aston Villa",
+            "home_team_score": "0",
+            "away_team": "Manchester Utd",
+            "away_team_score": "0",
+            "season": "2024/2025",
+            "current_home_rank": 5,
+            "current_away_rank": 14
+        },
+        {
+            "match_date": "06.10.",
+            "home_team": "Chelsea",
+            "home_team_score": "1",
+            "away_team": "Nottingham",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 4,
+            "current_away_rank": 10
+        },
+        {
+            "match_date": "05.10.",
+            "home_team": "Everton",
+            "home_team_score": "0",
+            "away_team": "Newcastle",
+            "away_team_score": "0",
+            "season": "2024/2025",
+            "current_home_rank": 16,
+            "current_away_rank": 7
+        },
+        {
+            "match_date": "05.10.",
+            "home_team": "Arsenal",
+            "home_team_score": "3",
+            "away_team": "Southampton",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 3,
+            "current_away_rank": 19
+        },
+        {
+            "match_date": "05.10.",
+            "home_team": "Brentford",
+            "home_team_score": "5",
+            "away_team": "Wolves",
+            "away_team_score": "3",
+            "season": "2024/2025",
+            "current_home_rank": 11,
+            "current_away_rank": 20
+        },
+        {
+            "match_date": "05.10.",
+            "home_team": "Leicester",
+            "home_team_score": "1",
+            "away_team": "Bournemouth",
+            "away_team_score": "0",
+            "season": "2024/2025",
+            "current_home_rank": 15,
+            "current_away_rank": 13
+        },
+        {
+            "match_date": "05.10.",
+            "home_team": "Manchester City",
+            "home_team_score": "3",
+            "away_team": "Fulham",
+            "away_team_score": "2",
+            "season": "2024/2025",
+            "current_home_rank": 2,
+            "current_away_rank": 8
+        },
+        {
+            "match_date": "05.10.",
+            "home_team": "West Ham",
+            "home_team_score": "4",
+            "away_team": "Ipswich",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 12,
+            "current_away_rank": 17
+        },
+        {
+            "match_date": "05.10.",
+            "home_team": "Crystal Palace",
+            "home_team_score": "0",
+            "away_team": "Liverpool",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 18,
+            "current_away_rank": 1
+        },
+        {
+            "match_date": "30.09.",
+            "home_team": "Bournemouth",
+            "home_team_score": "3",
+            "away_team": "Southampton",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 13,
+            "current_away_rank": 19
+        },
+        {
+            "match_date": "29.09.",
+            "home_team": "Manchester Utd",
+            "home_team_score": "0",
+            "away_team": "Tottenham",
+            "away_team_score": "3",
+            "season": "2024/2025",
+            "current_home_rank": 14,
+            "current_away_rank": 9
+        },
+        {
+            "match_date": "29.09.",
+            "home_team": "Ipswich",
+            "home_team_score": "2",
+            "away_team": "Aston Villa",
+            "away_team_score": "2",
+            "season": "2024/2025",
+            "current_home_rank": 17,
+            "current_away_rank": 5
+        },
+        {
+            "match_date": "28.09.",
+            "home_team": "Wolves",
+            "home_team_score": "1",
+            "away_team": "Liverpool",
+            "away_team_score": "2",
+            "season": "2024/2025",
+            "current_home_rank": 20,
+            "current_away_rank": 1
+        },
+        {
+            "match_date": "28.09.",
+            "home_team": "Arsenal",
+            "home_team_score": "4",
+            "away_team": "Leicester",
+            "away_team_score": "2",
+            "season": "2024/2025",
+            "current_home_rank": 3,
+            "current_away_rank": 15
+        },
+        {
+            "match_date": "28.09.",
+            "home_team": "Brentford",
+            "home_team_score": "1",
+            "away_team": "West Ham",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 11,
+            "current_away_rank": 12
+        },
+        {
+            "match_date": "28.09.",
+            "home_team": "Chelsea",
+            "home_team_score": "4",
+            "away_team": "Brighton",
+            "away_team_score": "2",
+            "season": "2024/2025",
+            "current_home_rank": 4,
+            "current_away_rank": 6
+        },
+        {
+            "match_date": "28.09.",
+            "home_team": "Everton",
+            "home_team_score": "2",
+            "away_team": "Crystal Palace",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 16,
+            "current_away_rank": 18
+        },
+        {
+            "match_date": "28.09.",
+            "home_team": "Nottingham",
+            "home_team_score": "0",
+            "away_team": "Fulham",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 10,
+            "current_away_rank": 8
+        },
+        {
+            "match_date": "28.09.",
+            "home_team": "Newcastle",
+            "home_team_score": "1",
+            "away_team": "Manchester City",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 7,
+            "current_away_rank": 2
+        },
+        {
+            "match_date": "22.09.",
+            "home_team": "Manchester City",
+            "home_team_score": "2",
+            "away_team": "Arsenal",
+            "away_team_score": "2",
+            "season": "2024/2025",
+            "current_home_rank": 2,
+            "current_away_rank": 3
+        },
+        {
+            "match_date": "22.09.",
+            "home_team": "Brighton",
+            "home_team_score": "2",
+            "away_team": "Nottingham",
+            "away_team_score": "2",
+            "season": "2024/2025",
+            "current_home_rank": 6,
+            "current_away_rank": 10
+        },
+        {
+            "match_date": "21.09.",
+            "home_team": "Crystal Palace",
+            "home_team_score": "0",
+            "away_team": "Manchester Utd",
+            "away_team_score": "0",
+            "season": "2024/2025",
+            "current_home_rank": 18,
+            "current_away_rank": 14
+        },
+        {
+            "match_date": "21.09.",
+            "home_team": "Aston Villa",
+            "home_team_score": "3",
+            "away_team": "Wolves",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 5,
+            "current_away_rank": 20
+        },
+        {
+            "match_date": "21.09.",
+            "home_team": "Fulham",
+            "home_team_score": "3",
+            "away_team": "Newcastle",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 8,
+            "current_away_rank": 7
+        },
+        {
+            "match_date": "21.09.",
+            "home_team": "Leicester",
+            "home_team_score": "1",
+            "away_team": "Everton",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 15,
+            "current_away_rank": 16
+        },
+        {
+            "match_date": "21.09.",
+            "home_team": "Liverpool",
+            "home_team_score": "3",
+            "away_team": "Bournemouth",
+            "away_team_score": "0",
+            "season": "2024/2025",
+            "current_home_rank": 1,
+            "current_away_rank": 13
+        },
+        {
+            "match_date": "21.09.",
+            "home_team": "Southampton",
+            "home_team_score": "1",
+            "away_team": "Ipswich",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 19,
+            "current_away_rank": 17
+        },
+        {
+            "match_date": "21.09.",
+            "home_team": "Tottenham",
+            "home_team_score": "3",
+            "away_team": "Brentford",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 9,
+            "current_away_rank": 11
+        },
+        {
+            "match_date": "21.09.",
+            "home_team": "West Ham",
+            "home_team_score": "0",
+            "away_team": "Chelsea",
+            "away_team_score": "3",
+            "season": "2024/2025",
+            "current_home_rank": 12,
+            "current_away_rank": 4
+        },
+        {
+            "match_date": "15.09.",
+            "home_team": "Wolves",
+            "home_team_score": "1",
+            "away_team": "Newcastle",
+            "away_team_score": "2",
+            "season": "2024/2025",
+            "current_home_rank": 20,
+            "current_away_rank": 7
+        },
+        {
+            "match_date": "15.09.",
+            "home_team": "Tottenham",
+            "home_team_score": "0",
+            "away_team": "Arsenal",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 9,
+            "current_away_rank": 3
+        },
+        {
+            "match_date": "14.09.",
+            "home_team": "Bournemouth",
+            "home_team_score": "0",
+            "away_team": "Chelsea",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 13,
+            "current_away_rank": 4
+        },
+        {
+            "match_date": "14.09.",
+            "home_team": "Aston Villa",
+            "home_team_score": "3",
+            "away_team": "Everton",
+            "away_team_score": "2",
+            "season": "2024/2025",
+            "current_home_rank": 5,
+            "current_away_rank": 16
+        },
+        {
+            "match_date": "14.09.",
+            "home_team": "Brighton",
+            "home_team_score": "0",
+            "away_team": "Ipswich",
+            "away_team_score": "0",
+            "season": "2024/2025",
+            "current_home_rank": 6,
+            "current_away_rank": 17
+        },
+        {
+            "match_date": "14.09.",
+            "home_team": "Crystal Palace",
+            "home_team_score": "2",
+            "away_team": "Leicester",
+            "away_team_score": "2",
+            "season": "2024/2025",
+            "current_home_rank": 18,
+            "current_away_rank": 15
+        },
+        {
+            "match_date": "14.09.",
+            "home_team": "Fulham",
+            "home_team_score": "1",
+            "away_team": "West Ham",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 8,
+            "current_away_rank": 12
+        },
+        {
+            "match_date": "14.09.",
+            "home_team": "Liverpool",
+            "home_team_score": "0",
+            "away_team": "Nottingham",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 1,
+            "current_away_rank": 10
+        },
+        {
+            "match_date": "14.09.",
+            "home_team": "Manchester City",
+            "home_team_score": "2",
+            "away_team": "Brentford",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 2,
+            "current_away_rank": 11
+        },
+        {
+            "match_date": "14.09.",
+            "home_team": "Southampton",
+            "home_team_score": "0",
+            "away_team": "Manchester Utd",
+            "away_team_score": "3",
+            "season": "2024/2025",
+            "current_home_rank": 19,
+            "current_away_rank": 14
+        },
+        {
+            "match_date": "01.09.",
+            "home_team": "Manchester Utd",
+            "home_team_score": "0",
+            "away_team": "Liverpool",
+            "away_team_score": "3",
+            "season": "2024/2025",
+            "current_home_rank": 14,
+            "current_away_rank": 1
+        },
+        {
+            "match_date": "01.09.",
+            "home_team": "Chelsea",
+            "home_team_score": "1",
+            "away_team": "Crystal Palace",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 4,
+            "current_away_rank": 18
+        },
+        {
+            "match_date": "01.09.",
+            "home_team": "Newcastle",
+            "home_team_score": "2",
+            "away_team": "Tottenham",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 7,
+            "current_away_rank": 9
+        },
+        {
+            "match_date": "31.08.",
+            "home_team": "West Ham",
+            "home_team_score": "1",
+            "away_team": "Manchester City",
+            "away_team_score": "3",
+            "season": "2024/2025",
+            "current_home_rank": 12,
+            "current_away_rank": 2
+        },
+        {
+            "match_date": "31.08.",
+            "home_team": "Brentford",
+            "home_team_score": "3",
+            "away_team": "Southampton",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 11,
+            "current_away_rank": 19
+        },
+        {
+            "match_date": "31.08.",
+            "home_team": "Everton",
+            "home_team_score": "2",
+            "away_team": "Bournemouth",
+            "away_team_score": "3",
+            "season": "2024/2025",
+            "current_home_rank": 16,
+            "current_away_rank": 13
+        },
+        {
+            "match_date": "31.08.",
+            "home_team": "Ipswich",
+            "home_team_score": "1",
+            "away_team": "Fulham",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 17,
+            "current_away_rank": 8
+        },
+        {
+            "match_date": "31.08.",
+            "home_team": "Leicester",
+            "home_team_score": "1",
+            "away_team": "Aston Villa",
+            "away_team_score": "2",
+            "season": "2024/2025",
+            "current_home_rank": 15,
+            "current_away_rank": 5
+        },
+        {
+            "match_date": "31.08.",
+            "home_team": "Nottingham",
+            "home_team_score": "1",
+            "away_team": "Wolves",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 10,
+            "current_away_rank": 20
+        },
+        {
+            "match_date": "31.08.",
+            "home_team": "Arsenal",
+            "home_team_score": "1",
+            "away_team": "Brighton",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 3,
+            "current_away_rank": 6
+        },
+        {
+            "match_date": "25.08.",
+            "home_team": "Liverpool",
+            "home_team_score": "2",
+            "away_team": "Brentford",
+            "away_team_score": "0",
+            "season": "2024/2025",
+            "current_home_rank": 1,
+            "current_away_rank": 11
+        },
+        {
+            "match_date": "25.08.",
+            "home_team": "Bournemouth",
+            "home_team_score": "1",
+            "away_team": "Newcastle",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 13,
+            "current_away_rank": 7
+        },
+        {
+            "match_date": "25.08.",
+            "home_team": "Wolves",
+            "home_team_score": "2",
+            "away_team": "Chelsea",
+            "away_team_score": "6",
+            "season": "2024/2025",
+            "current_home_rank": 20,
+            "current_away_rank": 4
+        },
+        {
+            "match_date": "24.08.",
+            "home_team": "Aston Villa",
+            "home_team_score": "0",
+            "away_team": "Arsenal",
+            "away_team_score": "2",
+            "season": "2024/2025",
+            "current_home_rank": 5,
+            "current_away_rank": 3
+        },
+        {
+            "match_date": "24.08.",
+            "home_team": "Crystal Palace",
+            "home_team_score": "0",
+            "away_team": "West Ham",
+            "away_team_score": "2",
+            "season": "2024/2025",
+            "current_home_rank": 18,
+            "current_away_rank": 12
+        },
+        {
+            "match_date": "24.08.",
+            "home_team": "Fulham",
+            "home_team_score": "2",
+            "away_team": "Leicester",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 8,
+            "current_away_rank": 15
+        },
+        {
+            "match_date": "24.08.",
+            "home_team": "Manchester City",
+            "home_team_score": "4",
+            "away_team": "Ipswich",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 2,
+            "current_away_rank": 17
+        },
+        {
+            "match_date": "24.08.",
+            "home_team": "Southampton",
+            "home_team_score": "0",
+            "away_team": "Nottingham",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 19,
+            "current_away_rank": 10
+        },
+        {
+            "match_date": "24.08.",
+            "home_team": "Tottenham",
+            "home_team_score": "4",
+            "away_team": "Everton",
+            "away_team_score": "0",
+            "season": "2024/2025",
+            "current_home_rank": 9,
+            "current_away_rank": 16
+        },
+        {
+            "match_date": "24.08.",
+            "home_team": "Brighton",
+            "home_team_score": "2",
+            "away_team": "Manchester Utd",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 6,
+            "current_away_rank": 14
+        },
+        {
+            "match_date": "19.08.",
+            "home_team": "Leicester",
+            "home_team_score": "1",
+            "away_team": "Tottenham",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 15,
+            "current_away_rank": 9
+        },
+        {
+            "match_date": "18.08.",
+            "home_team": "Chelsea",
+            "home_team_score": "0",
+            "away_team": "Manchester City",
+            "away_team_score": "2",
+            "season": "2024/2025",
+            "current_home_rank": 4,
+            "current_away_rank": 2
+        },
+        {
+            "match_date": "18.08.",
+            "home_team": "Brentford",
+            "home_team_score": "2",
+            "away_team": "Crystal Palace",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 11,
+            "current_away_rank": 18
+        },
+        {
+            "match_date": "17.08.",
+            "home_team": "West Ham",
+            "home_team_score": "1",
+            "away_team": "Aston Villa",
+            "away_team_score": "2",
+            "season": "2024/2025",
+            "current_home_rank": 12,
+            "current_away_rank": 5
+        },
+        {
+            "match_date": "17.08.",
+            "home_team": "Arsenal",
+            "home_team_score": "2",
+            "away_team": "Wolves",
+            "away_team_score": "0",
+            "season": "2024/2025",
+            "current_home_rank": 3,
+            "current_away_rank": 20
+        },
+        {
+            "match_date": "17.08.",
+            "home_team": "Everton",
+            "home_team_score": "0",
+            "away_team": "Brighton",
+            "away_team_score": "3",
+            "season": "2024/2025",
+            "current_home_rank": 16,
+            "current_away_rank": 6
+        },
+        {
+            "match_date": "17.08.",
+            "home_team": "Newcastle",
+            "home_team_score": "1",
+            "away_team": "Southampton",
+            "away_team_score": "0",
+            "season": "2024/2025",
+            "current_home_rank": 7,
+            "current_away_rank": 19
+        },
+        {
+            "match_date": "17.08.",
+            "home_team": "Nottingham",
+            "home_team_score": "1",
+            "away_team": "Bournemouth",
+            "away_team_score": "1",
+            "season": "2024/2025",
+            "current_home_rank": 10,
+            "current_away_rank": 13
+        },
+        {
+            "match_date": "17.08.",
+            "home_team": "Ipswich",
+            "home_team_score": "0",
+            "away_team": "Liverpool",
+            "away_team_score": "2",
+            "season": "2024/2025",
+            "current_home_rank": 17,
+            "current_away_rank": 1
+        },
+        {
+            "match_date": "16.08.",
+            "home_team": "Manchester Utd",
+            "home_team_score": "1",
+            "away_team": "Fulham",
+            "away_team_score": "0",
+            "season": "2024/2025",
+            "current_home_rank": 14,
+            "current_away_rank": 8
+        }
+    ],
+    "2023/2024": [
+        {
+            "match_date": "19.05.",
+            "home_team": "Arsenal",
+            "home_team_score": "2",
+            "away_team": "Everton",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 2,
+            "current_away_rank": 15
+        },
+        {
+            "match_date": "19.05.",
+            "home_team": "Brentford",
+            "home_team_score": "2",
+            "away_team": "Newcastle",
+            "away_team_score": "4",
+            "season": "2023/2024",
+            "current_home_rank": 16,
+            "current_away_rank": 7
+        },
+        {
+            "match_date": "19.05.",
+            "home_team": "Brighton",
+            "home_team_score": "0",
+            "away_team": "Manchester Utd",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 11,
+            "current_away_rank": 8
+        },
+        {
+            "match_date": "19.05.",
+            "home_team": "Burnley",
+            "home_team_score": "1",
+            "away_team": "Nottingham",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 19,
+            "current_away_rank": 17
+        },
+        {
+            "match_date": "19.05.",
+            "home_team": "Chelsea",
+            "home_team_score": "2",
+            "away_team": "Bournemouth",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 6,
+            "current_away_rank": 12
+        },
+        {
+            "match_date": "19.05.",
+            "home_team": "Crystal Palace",
+            "home_team_score": "5",
+            "away_team": "Aston Villa",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 10,
+            "current_away_rank": 4
+        },
+        {
+            "match_date": "19.05.",
+            "home_team": "Liverpool",
+            "home_team_score": "2",
+            "away_team": "Wolves",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 3,
+            "current_away_rank": 14
+        },
+        {
+            "match_date": "19.05.",
+            "home_team": "Luton",
+            "home_team_score": "2",
+            "away_team": "Fulham",
+            "away_team_score": "4",
+            "season": "2023/2024",
+            "current_home_rank": 18,
+            "current_away_rank": 13
+        },
+        {
+            "match_date": "19.05.",
+            "home_team": "Manchester City",
+            "home_team_score": "3",
+            "away_team": "West Ham",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 1,
+            "current_away_rank": 9
+        },
+        {
+            "match_date": "19.05.",
+            "home_team": "Sheffield Utd",
+            "home_team_score": "0",
+            "away_team": "Tottenham",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 20,
+            "current_away_rank": 5
+        },
+        {
+            "match_date": "15.05.",
+            "home_team": "Manchester Utd",
+            "home_team_score": "3",
+            "away_team": "Newcastle",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 8,
+            "current_away_rank": 7
+        },
+        {
+            "match_date": "15.05.",
+            "home_team": "Brighton",
+            "home_team_score": "1",
+            "away_team": "Chelsea",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 11,
+            "current_away_rank": 6
+        },
+        {
+            "match_date": "14.05.",
+            "home_team": "Tottenham",
+            "home_team_score": "0",
+            "away_team": "Manchester City",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 5,
+            "current_away_rank": 1
+        },
+        {
+            "match_date": "13.05.",
+            "home_team": "Aston Villa",
+            "home_team_score": "3",
+            "away_team": "Liverpool",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 4,
+            "current_away_rank": 3
+        },
+        {
+            "match_date": "12.05.",
+            "home_team": "Manchester Utd",
+            "home_team_score": "0",
+            "away_team": "Arsenal",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 8,
+            "current_away_rank": 2
+        },
+        {
+            "match_date": "11.05.",
+            "home_team": "Nottingham",
+            "home_team_score": "2",
+            "away_team": "Chelsea",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 17,
+            "current_away_rank": 6
+        },
+        {
+            "match_date": "11.05.",
+            "home_team": "Bournemouth",
+            "home_team_score": "1",
+            "away_team": "Brentford",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 12,
+            "current_away_rank": 16
+        },
+        {
+            "match_date": "11.05.",
+            "home_team": "Everton",
+            "home_team_score": "1",
+            "away_team": "Sheffield Utd",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 15,
+            "current_away_rank": 20
+        },
+        {
+            "match_date": "11.05.",
+            "home_team": "Newcastle",
+            "home_team_score": "1",
+            "away_team": "Brighton",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 7,
+            "current_away_rank": 11
+        },
+        {
+            "match_date": "11.05.",
+            "home_team": "Tottenham",
+            "home_team_score": "2",
+            "away_team": "Burnley",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 5,
+            "current_away_rank": 19
+        },
+        {
+            "match_date": "11.05.",
+            "home_team": "West Ham",
+            "home_team_score": "3",
+            "away_team": "Luton",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 9,
+            "current_away_rank": 18
+        },
+        {
+            "match_date": "11.05.",
+            "home_team": "Wolves",
+            "home_team_score": "1",
+            "away_team": "Crystal Palace",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 14,
+            "current_away_rank": 10
+        },
+        {
+            "match_date": "11.05.",
+            "home_team": "Fulham",
+            "home_team_score": "0",
+            "away_team": "Manchester City",
+            "away_team_score": "4",
+            "season": "2023/2024",
+            "current_home_rank": 13,
+            "current_away_rank": 1
+        },
+        {
+            "match_date": "06.05.",
+            "home_team": "Crystal Palace",
+            "home_team_score": "4",
+            "away_team": "Manchester Utd",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 10,
+            "current_away_rank": 8
+        },
+        {
+            "match_date": "05.05.",
+            "home_team": "Liverpool",
+            "home_team_score": "4",
+            "away_team": "Tottenham",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 3,
+            "current_away_rank": 5
+        },
+        {
+            "match_date": "05.05.",
+            "home_team": "Brighton",
+            "home_team_score": "1",
+            "away_team": "Aston Villa",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 11,
+            "current_away_rank": 4
+        },
+        {
+            "match_date": "05.05.",
+            "home_team": "Chelsea",
+            "home_team_score": "5",
+            "away_team": "West Ham",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 6,
+            "current_away_rank": 9
+        },
+        {
+            "match_date": "04.05.",
+            "home_team": "Manchester City",
+            "home_team_score": "5",
+            "away_team": "Wolves",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 1,
+            "current_away_rank": 14
+        },
+        {
+            "match_date": "04.05.",
+            "home_team": "Brentford",
+            "home_team_score": "0",
+            "away_team": "Fulham",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 16,
+            "current_away_rank": 13
+        },
+        {
+            "match_date": "04.05.",
+            "home_team": "Burnley",
+            "home_team_score": "1",
+            "away_team": "Newcastle",
+            "away_team_score": "4",
+            "season": "2023/2024",
+            "current_home_rank": 19,
+            "current_away_rank": 7
+        },
+        {
+            "match_date": "04.05.",
+            "home_team": "Sheffield Utd",
+            "home_team_score": "1",
+            "away_team": "Nottingham",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 20,
+            "current_away_rank": 17
+        },
+        {
+            "match_date": "04.05.",
+            "home_team": "Arsenal",
+            "home_team_score": "3",
+            "away_team": "Bournemouth",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 2,
+            "current_away_rank": 12
+        },
+        {
+            "match_date": "03.05.",
+            "home_team": "Luton",
+            "home_team_score": "1",
+            "away_team": "Everton",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 18,
+            "current_away_rank": 15
+        },
+        {
+            "match_date": "02.05.",
+            "home_team": "Chelsea",
+            "home_team_score": "2",
+            "away_team": "Tottenham",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 6,
+            "current_away_rank": 5
+        },
+        {
+            "match_date": "28.04.",
+            "home_team": "Nottingham",
+            "home_team_score": "0",
+            "away_team": "Manchester City",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 17,
+            "current_away_rank": 1
+        },
+        {
+            "match_date": "28.04.",
+            "home_team": "Bournemouth",
+            "home_team_score": "3",
+            "away_team": "Brighton",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 12,
+            "current_away_rank": 11
+        },
+        {
+            "match_date": "28.04.",
+            "home_team": "Tottenham",
+            "home_team_score": "2",
+            "away_team": "Arsenal",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 5,
+            "current_away_rank": 2
+        },
+        {
+            "match_date": "27.04.",
+            "home_team": "Aston Villa",
+            "home_team_score": "2",
+            "away_team": "Chelsea",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 4,
+            "current_away_rank": 6
+        },
+        {
+            "match_date": "27.04.",
+            "home_team": "Everton",
+            "home_team_score": "1",
+            "away_team": "Brentford",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 15,
+            "current_away_rank": 16
+        },
+        {
+            "match_date": "27.04.",
+            "home_team": "Fulham",
+            "home_team_score": "1",
+            "away_team": "Crystal Palace",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 13,
+            "current_away_rank": 10
+        },
+        {
+            "match_date": "27.04.",
+            "home_team": "Manchester Utd",
+            "home_team_score": "1",
+            "away_team": "Burnley",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 8,
+            "current_away_rank": 19
+        },
+        {
+            "match_date": "27.04.",
+            "home_team": "Newcastle",
+            "home_team_score": "5",
+            "away_team": "Sheffield Utd",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 7,
+            "current_away_rank": 20
+        },
+        {
+            "match_date": "27.04.",
+            "home_team": "Wolves",
+            "home_team_score": "2",
+            "away_team": "Luton",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 14,
+            "current_away_rank": 18
+        },
+        {
+            "match_date": "27.04.",
+            "home_team": "West Ham",
+            "home_team_score": "2",
+            "away_team": "Liverpool",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 9,
+            "current_away_rank": 3
+        },
+        {
+            "match_date": "25.04.",
+            "home_team": "Brighton",
+            "home_team_score": "0",
+            "away_team": "Manchester City",
+            "away_team_score": "4",
+            "season": "2023/2024",
+            "current_home_rank": 11,
+            "current_away_rank": 1
+        },
+        {
+            "match_date": "24.04.",
+            "home_team": "Crystal Palace",
+            "home_team_score": "2",
+            "away_team": "Newcastle",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 10,
+            "current_away_rank": 7
+        },
+        {
+            "match_date": "24.04.",
+            "home_team": "Everton",
+            "home_team_score": "2",
+            "away_team": "Liverpool",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 15,
+            "current_away_rank": 3
+        },
+        {
+            "match_date": "24.04.",
+            "home_team": "Manchester Utd",
+            "home_team_score": "4",
+            "away_team": "Sheffield Utd",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 8,
+            "current_away_rank": 20
+        },
+        {
+            "match_date": "24.04.",
+            "home_team": "Wolves",
+            "home_team_score": "0",
+            "away_team": "Bournemouth",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 14,
+            "current_away_rank": 12
+        },
+        {
+            "match_date": "23.04.",
+            "home_team": "Arsenal",
+            "home_team_score": "5",
+            "away_team": "Chelsea",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 2,
+            "current_away_rank": 6
+        },
+        {
+            "match_date": "21.04.",
+            "home_team": "Fulham",
+            "home_team_score": "1",
+            "away_team": "Liverpool",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 13,
+            "current_away_rank": 3
+        },
+        {
+            "match_date": "21.04.",
+            "home_team": "Aston Villa",
+            "home_team_score": "3",
+            "away_team": "Bournemouth",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 4,
+            "current_away_rank": 12
+        },
+        {
+            "match_date": "21.04.",
+            "home_team": "Crystal Palace",
+            "home_team_score": "5",
+            "away_team": "West Ham",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 10,
+            "current_away_rank": 9
+        },
+        {
+            "match_date": "21.04.",
+            "home_team": "Everton",
+            "home_team_score": "2",
+            "away_team": "Nottingham",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 15,
+            "current_away_rank": 17
+        },
+        {
+            "match_date": "20.04.",
+            "home_team": "Wolves",
+            "home_team_score": "0",
+            "away_team": "Arsenal",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 14,
+            "current_away_rank": 2
+        },
+        {
+            "match_date": "20.04.",
+            "home_team": "Luton",
+            "home_team_score": "1",
+            "away_team": "Brentford",
+            "away_team_score": "5",
+            "season": "2023/2024",
+            "current_home_rank": 18,
+            "current_away_rank": 16
+        },
+        {
+            "match_date": "20.04.",
+            "home_team": "Sheffield Utd",
+            "home_team_score": "1",
+            "away_team": "Burnley",
+            "away_team_score": "4",
+            "season": "2023/2024",
+            "current_home_rank": 20,
+            "current_away_rank": 19
+        },
+        {
+            "match_date": "15.04.",
+            "home_team": "Chelsea",
+            "home_team_score": "6",
+            "away_team": "Everton",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 6,
+            "current_away_rank": 15
+        },
+        {
+            "match_date": "14.04.",
+            "home_team": "Arsenal",
+            "home_team_score": "0",
+            "away_team": "Aston Villa",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 2,
+            "current_away_rank": 4
+        },
+        {
+            "match_date": "14.04.",
+            "home_team": "Liverpool",
+            "home_team_score": "0",
+            "away_team": "Crystal Palace",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 3,
+            "current_away_rank": 10
+        },
+        {
+            "match_date": "14.04.",
+            "home_team": "West Ham",
+            "home_team_score": "0",
+            "away_team": "Fulham",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 9,
+            "current_away_rank": 13
+        },
+        {
+            "match_date": "13.04.",
+            "home_team": "Bournemouth",
+            "home_team_score": "2",
+            "away_team": "Manchester Utd",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 12,
+            "current_away_rank": 8
+        },
+        {
+            "match_date": "13.04.",
+            "home_team": "Brentford",
+            "home_team_score": "2",
+            "away_team": "Sheffield Utd",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 16,
+            "current_away_rank": 20
+        },
+        {
+            "match_date": "13.04.",
+            "home_team": "Burnley",
+            "home_team_score": "1",
+            "away_team": "Brighton",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 19,
+            "current_away_rank": 11
+        },
+        {
+            "match_date": "13.04.",
+            "home_team": "Manchester City",
+            "home_team_score": "5",
+            "away_team": "Luton",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 1,
+            "current_away_rank": 18
+        },
+        {
+            "match_date": "13.04.",
+            "home_team": "Nottingham",
+            "home_team_score": "2",
+            "away_team": "Wolves",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 17,
+            "current_away_rank": 14
+        },
+        {
+            "match_date": "13.04.",
+            "home_team": "Newcastle",
+            "home_team_score": "4",
+            "away_team": "Tottenham",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 7,
+            "current_away_rank": 5
+        },
+        {
+            "match_date": "07.04.",
+            "home_team": "Tottenham",
+            "home_team_score": "3",
+            "away_team": "Nottingham",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 5,
+            "current_away_rank": 17
+        },
+        {
+            "match_date": "07.04.",
+            "home_team": "Sheffield Utd",
+            "home_team_score": "2",
+            "away_team": "Chelsea",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 20,
+            "current_away_rank": 6
+        },
+        {
+            "match_date": "07.04.",
+            "home_team": "Manchester Utd",
+            "home_team_score": "2",
+            "away_team": "Liverpool",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 8,
+            "current_away_rank": 3
+        },
+        {
+            "match_date": "06.04.",
+            "home_team": "Brighton",
+            "home_team_score": "0",
+            "away_team": "Arsenal",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 11,
+            "current_away_rank": 2
+        },
+        {
+            "match_date": "06.04.",
+            "home_team": "Aston Villa",
+            "home_team_score": "3",
+            "away_team": "Brentford",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 4,
+            "current_away_rank": 16
+        },
+        {
+            "match_date": "06.04.",
+            "home_team": "Everton",
+            "home_team_score": "1",
+            "away_team": "Burnley",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 15,
+            "current_away_rank": 19
+        },
+        {
+            "match_date": "06.04.",
+            "home_team": "Fulham",
+            "home_team_score": "0",
+            "away_team": "Newcastle",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 13,
+            "current_away_rank": 7
+        },
+        {
+            "match_date": "06.04.",
+            "home_team": "Luton",
+            "home_team_score": "2",
+            "away_team": "Bournemouth",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 18,
+            "current_away_rank": 12
+        },
+        {
+            "match_date": "06.04.",
+            "home_team": "Wolves",
+            "home_team_score": "1",
+            "away_team": "West Ham",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 14,
+            "current_away_rank": 9
+        },
+        {
+            "match_date": "06.04.",
+            "home_team": "Crystal Palace",
+            "home_team_score": "2",
+            "away_team": "Manchester City",
+            "away_team_score": "4",
+            "season": "2023/2024",
+            "current_home_rank": 10,
+            "current_away_rank": 1
+        },
+        {
+            "match_date": "04.04.",
+            "home_team": "Chelsea",
+            "home_team_score": "4",
+            "away_team": "Manchester Utd",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 6,
+            "current_away_rank": 8
+        },
+        {
+            "match_date": "04.04.",
+            "home_team": "Liverpool",
+            "home_team_score": "3",
+            "away_team": "Sheffield Utd",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 3,
+            "current_away_rank": 20
+        },
+        {
+            "match_date": "03.04.",
+            "home_team": "Manchester City",
+            "home_team_score": "4",
+            "away_team": "Aston Villa",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 1,
+            "current_away_rank": 4
+        },
+        {
+            "match_date": "03.04.",
+            "home_team": "Arsenal",
+            "home_team_score": "2",
+            "away_team": "Luton",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 2,
+            "current_away_rank": 18
+        },
+        {
+            "match_date": "03.04.",
+            "home_team": "Brentford",
+            "home_team_score": "0",
+            "away_team": "Brighton",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 16,
+            "current_away_rank": 11
+        },
+        {
+            "match_date": "02.04.",
+            "home_team": "West Ham",
+            "home_team_score": "1",
+            "away_team": "Tottenham",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 9,
+            "current_away_rank": 5
+        },
+        {
+            "match_date": "02.04.",
+            "home_team": "Bournemouth",
+            "home_team_score": "1",
+            "away_team": "Crystal Palace",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 12,
+            "current_away_rank": 10
+        },
+        {
+            "match_date": "02.04.",
+            "home_team": "Burnley",
+            "home_team_score": "1",
+            "away_team": "Wolves",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 19,
+            "current_away_rank": 14
+        },
+        {
+            "match_date": "02.04.",
+            "home_team": "Newcastle",
+            "home_team_score": "1",
+            "away_team": "Everton",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 7,
+            "current_away_rank": 15
+        },
+        {
+            "match_date": "02.04.",
+            "home_team": "Nottingham",
+            "home_team_score": "3",
+            "away_team": "Fulham",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 17,
+            "current_away_rank": 13
+        },
+        {
+            "match_date": "31.03.",
+            "home_team": "Manchester City",
+            "home_team_score": "0",
+            "away_team": "Arsenal",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 1,
+            "current_away_rank": 2
+        },
+        {
+            "match_date": "31.03.",
+            "home_team": "Liverpool",
+            "home_team_score": "2",
+            "away_team": "Brighton",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 3,
+            "current_away_rank": 11
+        },
+        {
+            "match_date": "30.03.",
+            "home_team": "Brentford",
+            "home_team_score": "1",
+            "away_team": "Manchester Utd",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 16,
+            "current_away_rank": 8
+        },
+        {
+            "match_date": "30.03.",
+            "home_team": "Aston Villa",
+            "home_team_score": "2",
+            "away_team": "Wolves",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 4,
+            "current_away_rank": 14
+        },
+        {
+            "match_date": "30.03.",
+            "home_team": "Bournemouth",
+            "home_team_score": "2",
+            "away_team": "Everton",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 12,
+            "current_away_rank": 15
+        },
+        {
+            "match_date": "30.03.",
+            "home_team": "Chelsea",
+            "home_team_score": "2",
+            "away_team": "Burnley",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 6,
+            "current_away_rank": 19
+        },
+        {
+            "match_date": "30.03.",
+            "home_team": "Nottingham",
+            "home_team_score": "1",
+            "away_team": "Crystal Palace",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 17,
+            "current_away_rank": 10
+        },
+        {
+            "match_date": "30.03.",
+            "home_team": "Sheffield Utd",
+            "home_team_score": "3",
+            "away_team": "Fulham",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 20,
+            "current_away_rank": 13
+        },
+        {
+            "match_date": "30.03.",
+            "home_team": "Tottenham",
+            "home_team_score": "2",
+            "away_team": "Luton",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 5,
+            "current_away_rank": 18
+        },
+        {
+            "match_date": "30.03.",
+            "home_team": "Newcastle",
+            "home_team_score": "4",
+            "away_team": "West Ham",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 7,
+            "current_away_rank": 9
+        },
+        {
+            "match_date": "17.03.",
+            "home_team": "West Ham",
+            "home_team_score": "1",
+            "away_team": "Aston Villa",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 9,
+            "current_away_rank": 4
+        },
+        {
+            "match_date": "16.03.",
+            "home_team": "Fulham",
+            "home_team_score": "3",
+            "away_team": "Tottenham",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 13,
+            "current_away_rank": 5
+        },
+        {
+            "match_date": "16.03.",
+            "home_team": "Burnley",
+            "home_team_score": "2",
+            "away_team": "Brentford",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 19,
+            "current_away_rank": 16
+        },
+        {
+            "match_date": "16.03.",
+            "home_team": "Luton",
+            "home_team_score": "1",
+            "away_team": "Nottingham",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 18,
+            "current_away_rank": 17
+        },
+        {
+            "match_date": "13.03.",
+            "home_team": "Bournemouth",
+            "home_team_score": "4",
+            "away_team": "Luton",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 12,
+            "current_away_rank": 18
+        },
+        {
+            "match_date": "11.03.",
+            "home_team": "Chelsea",
+            "home_team_score": "3",
+            "away_team": "Newcastle",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 6,
+            "current_away_rank": 7
+        },
+        {
+            "match_date": "10.03.",
+            "home_team": "Liverpool",
+            "home_team_score": "1",
+            "away_team": "Manchester City",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 3,
+            "current_away_rank": 1
+        },
+        {
+            "match_date": "10.03.",
+            "home_team": "Brighton",
+            "home_team_score": "1",
+            "away_team": "Nottingham",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 11,
+            "current_away_rank": 17
+        },
+        {
+            "match_date": "10.03.",
+            "home_team": "West Ham",
+            "home_team_score": "2",
+            "away_team": "Burnley",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 9,
+            "current_away_rank": 19
+        },
+        {
+            "match_date": "10.03.",
+            "home_team": "Aston Villa",
+            "home_team_score": "0",
+            "away_team": "Tottenham",
+            "away_team_score": "4",
+            "season": "2023/2024",
+            "current_home_rank": 4,
+            "current_away_rank": 5
+        },
+        {
+            "match_date": "09.03.",
+            "home_team": "Arsenal",
+            "home_team_score": "2",
+            "away_team": "Brentford",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 2,
+            "current_away_rank": 16
+        },
+        {
+            "match_date": "09.03.",
+            "home_team": "Bournemouth",
+            "home_team_score": "2",
+            "away_team": "Sheffield Utd",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 12,
+            "current_away_rank": 20
+        },
+        {
+            "match_date": "09.03.",
+            "home_team": "Crystal Palace",
+            "home_team_score": "1",
+            "away_team": "Luton",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 10,
+            "current_away_rank": 18
+        },
+        {
+            "match_date": "09.03.",
+            "home_team": "Wolves",
+            "home_team_score": "2",
+            "away_team": "Fulham",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 14,
+            "current_away_rank": 13
+        },
+        {
+            "match_date": "09.03.",
+            "home_team": "Manchester Utd",
+            "home_team_score": "2",
+            "away_team": "Everton",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 8,
+            "current_away_rank": 15
+        },
+        {
+            "match_date": "04.03.",
+            "home_team": "Sheffield Utd",
+            "home_team_score": "0",
+            "away_team": "Arsenal",
+            "away_team_score": "6",
+            "season": "2023/2024",
+            "current_home_rank": 20,
+            "current_away_rank": 2
+        },
+        {
+            "match_date": "03.03.",
+            "home_team": "Manchester City",
+            "home_team_score": "3",
+            "away_team": "Manchester Utd",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 1,
+            "current_away_rank": 8
+        },
+        {
+            "match_date": "03.03.",
+            "home_team": "Burnley",
+            "home_team_score": "0",
+            "away_team": "Bournemouth",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 19,
+            "current_away_rank": 12
+        },
+        {
+            "match_date": "02.03.",
+            "home_team": "Luton",
+            "home_team_score": "2",
+            "away_team": "Aston Villa",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 18,
+            "current_away_rank": 4
+        },
+        {
+            "match_date": "02.03.",
+            "home_team": "Brentford",
+            "home_team_score": "2",
+            "away_team": "Chelsea",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 16,
+            "current_away_rank": 6
+        },
+        {
+            "match_date": "02.03.",
+            "home_team": "Everton",
+            "home_team_score": "1",
+            "away_team": "West Ham",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 15,
+            "current_away_rank": 9
+        },
+        {
+            "match_date": "02.03.",
+            "home_team": "Fulham",
+            "home_team_score": "3",
+            "away_team": "Brighton",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 13,
+            "current_away_rank": 11
+        },
+        {
+            "match_date": "02.03.",
+            "home_team": "Newcastle",
+            "home_team_score": "3",
+            "away_team": "Wolves",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 7,
+            "current_away_rank": 14
+        },
+        {
+            "match_date": "02.03.",
+            "home_team": "Nottingham",
+            "home_team_score": "0",
+            "away_team": "Liverpool",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 17,
+            "current_away_rank": 3
+        },
+        {
+            "match_date": "02.03.",
+            "home_team": "Tottenham",
+            "home_team_score": "3",
+            "away_team": "Crystal Palace",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 5,
+            "current_away_rank": 10
+        },
+        {
+            "match_date": "26.02.",
+            "home_team": "West Ham",
+            "home_team_score": "4",
+            "away_team": "Brentford",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 9,
+            "current_away_rank": 16
+        },
+        {
+            "match_date": "25.02.",
+            "home_team": "Wolves",
+            "home_team_score": "1",
+            "away_team": "Sheffield Utd",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 14,
+            "current_away_rank": 20
+        },
+        {
+            "match_date": "24.02.",
+            "home_team": "Arsenal",
+            "home_team_score": "4",
+            "away_team": "Newcastle",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 2,
+            "current_away_rank": 7
+        },
+        {
+            "match_date": "24.02.",
+            "home_team": "Bournemouth",
+            "home_team_score": "0",
+            "away_team": "Manchester City",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 12,
+            "current_away_rank": 1
+        },
+        {
+            "match_date": "24.02.",
+            "home_team": "Aston Villa",
+            "home_team_score": "4",
+            "away_team": "Nottingham",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 4,
+            "current_away_rank": 17
+        },
+        {
+            "match_date": "24.02.",
+            "home_team": "Brighton",
+            "home_team_score": "1",
+            "away_team": "Everton",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 11,
+            "current_away_rank": 15
+        },
+        {
+            "match_date": "24.02.",
+            "home_team": "Crystal Palace",
+            "home_team_score": "3",
+            "away_team": "Burnley",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 10,
+            "current_away_rank": 19
+        },
+        {
+            "match_date": "24.02.",
+            "home_team": "Manchester Utd",
+            "home_team_score": "1",
+            "away_team": "Fulham",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 8,
+            "current_away_rank": 13
+        },
+        {
+            "match_date": "21.02.",
+            "home_team": "Liverpool",
+            "home_team_score": "4",
+            "away_team": "Luton",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 3,
+            "current_away_rank": 18
+        },
+        {
+            "match_date": "20.02.",
+            "home_team": "Manchester City",
+            "home_team_score": "1",
+            "away_team": "Brentford",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 1,
+            "current_away_rank": 16
+        },
+        {
+            "match_date": "19.02.",
+            "home_team": "Everton",
+            "home_team_score": "1",
+            "away_team": "Crystal Palace",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 15,
+            "current_away_rank": 10
+        },
+        {
+            "match_date": "18.02.",
+            "home_team": "Luton",
+            "home_team_score": "1",
+            "away_team": "Manchester Utd",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 18,
+            "current_away_rank": 8
+        },
+        {
+            "match_date": "18.02.",
+            "home_team": "Sheffield Utd",
+            "home_team_score": "0",
+            "away_team": "Brighton",
+            "away_team_score": "5",
+            "season": "2023/2024",
+            "current_home_rank": 20,
+            "current_away_rank": 11
+        },
+        {
+            "match_date": "17.02.",
+            "home_team": "Manchester City",
+            "home_team_score": "1",
+            "away_team": "Chelsea",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 1,
+            "current_away_rank": 6
+        },
+        {
+            "match_date": "17.02.",
+            "home_team": "Burnley",
+            "home_team_score": "0",
+            "away_team": "Arsenal",
+            "away_team_score": "5",
+            "season": "2023/2024",
+            "current_home_rank": 19,
+            "current_away_rank": 2
+        },
+        {
+            "match_date": "17.02.",
+            "home_team": "Fulham",
+            "home_team_score": "1",
+            "away_team": "Aston Villa",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 13,
+            "current_away_rank": 4
+        },
+        {
+            "match_date": "17.02.",
+            "home_team": "Newcastle",
+            "home_team_score": "2",
+            "away_team": "Bournemouth",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 7,
+            "current_away_rank": 12
+        },
+        {
+            "match_date": "17.02.",
+            "home_team": "Nottingham",
+            "home_team_score": "2",
+            "away_team": "West Ham",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 17,
+            "current_away_rank": 9
+        },
+        {
+            "match_date": "17.02.",
+            "home_team": "Tottenham",
+            "home_team_score": "1",
+            "away_team": "Wolves",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 5,
+            "current_away_rank": 14
+        },
+        {
+            "match_date": "17.02.",
+            "home_team": "Brentford",
+            "home_team_score": "1",
+            "away_team": "Liverpool",
+            "away_team_score": "4",
+            "season": "2023/2024",
+            "current_home_rank": 16,
+            "current_away_rank": 3
+        },
+        {
+            "match_date": "12.02.",
+            "home_team": "Crystal Palace",
+            "home_team_score": "1",
+            "away_team": "Chelsea",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 10,
+            "current_away_rank": 6
+        },
+        {
+            "match_date": "11.02.",
+            "home_team": "Aston Villa",
+            "home_team_score": "1",
+            "away_team": "Manchester Utd",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 4,
+            "current_away_rank": 8
+        },
+        {
+            "match_date": "11.02.",
+            "home_team": "West Ham",
+            "home_team_score": "0",
+            "away_team": "Arsenal",
+            "away_team_score": "6",
+            "season": "2023/2024",
+            "current_home_rank": 9,
+            "current_away_rank": 2
+        },
+        {
+            "match_date": "10.02.",
+            "home_team": "Nottingham",
+            "home_team_score": "2",
+            "away_team": "Newcastle",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 17,
+            "current_away_rank": 7
+        },
+        {
+            "match_date": "10.02.",
+            "home_team": "Fulham",
+            "home_team_score": "3",
+            "away_team": "Bournemouth",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 13,
+            "current_away_rank": 12
+        },
+        {
+            "match_date": "10.02.",
+            "home_team": "Liverpool",
+            "home_team_score": "3",
+            "away_team": "Burnley",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 3,
+            "current_away_rank": 19
+        },
+        {
+            "match_date": "10.02.",
+            "home_team": "Luton",
+            "home_team_score": "1",
+            "away_team": "Sheffield Utd",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 18,
+            "current_away_rank": 20
+        },
+        {
+            "match_date": "10.02.",
+            "home_team": "Tottenham",
+            "home_team_score": "2",
+            "away_team": "Brighton",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 5,
+            "current_away_rank": 11
+        },
+        {
+            "match_date": "10.02.",
+            "home_team": "Wolves",
+            "home_team_score": "0",
+            "away_team": "Brentford",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 14,
+            "current_away_rank": 16
+        },
+        {
+            "match_date": "10.02.",
+            "home_team": "Manchester City",
+            "home_team_score": "2",
+            "away_team": "Everton",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 1,
+            "current_away_rank": 15
+        },
+        {
+            "match_date": "05.02.",
+            "home_team": "Brentford",
+            "home_team_score": "1",
+            "away_team": "Manchester City",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 16,
+            "current_away_rank": 1
+        },
+        {
+            "match_date": "04.02.",
+            "home_team": "Arsenal",
+            "home_team_score": "3",
+            "away_team": "Liverpool",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 2,
+            "current_away_rank": 3
+        },
+        {
+            "match_date": "04.02.",
+            "home_team": "Bournemouth",
+            "home_team_score": "1",
+            "away_team": "Nottingham",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 12,
+            "current_away_rank": 17
+        },
+        {
+            "match_date": "04.02.",
+            "home_team": "Chelsea",
+            "home_team_score": "2",
+            "away_team": "Wolves",
+            "away_team_score": "4",
+            "season": "2023/2024",
+            "current_home_rank": 6,
+            "current_away_rank": 14
+        },
+        {
+            "match_date": "04.02.",
+            "home_team": "Manchester Utd",
+            "home_team_score": "3",
+            "away_team": "West Ham",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 8,
+            "current_away_rank": 9
+        },
+        {
+            "match_date": "03.02.",
+            "home_team": "Sheffield Utd",
+            "home_team_score": "0",
+            "away_team": "Aston Villa",
+            "away_team_score": "5",
+            "season": "2023/2024",
+            "current_home_rank": 20,
+            "current_away_rank": 4
+        },
+        {
+            "match_date": "03.02.",
+            "home_team": "Brighton",
+            "home_team_score": "4",
+            "away_team": "Crystal Palace",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 11,
+            "current_away_rank": 10
+        },
+        {
+            "match_date": "03.02.",
+            "home_team": "Burnley",
+            "home_team_score": "2",
+            "away_team": "Fulham",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 19,
+            "current_away_rank": 13
+        },
+        {
+            "match_date": "03.02.",
+            "home_team": "Newcastle",
+            "home_team_score": "4",
+            "away_team": "Luton",
+            "away_team_score": "4",
+            "season": "2023/2024",
+            "current_home_rank": 7,
+            "current_away_rank": 18
+        },
+        {
+            "match_date": "03.02.",
+            "home_team": "Everton",
+            "home_team_score": "2",
+            "away_team": "Tottenham",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 15,
+            "current_away_rank": 5
+        },
+        {
+            "match_date": "01.02.",
+            "home_team": "Wolves",
+            "home_team_score": "3",
+            "away_team": "Manchester Utd",
+            "away_team_score": "4",
+            "season": "2023/2024",
+            "current_home_rank": 14,
+            "current_away_rank": 8
+        },
+        {
+            "match_date": "01.02.",
+            "home_team": "West Ham",
+            "home_team_score": "1",
+            "away_team": "Bournemouth",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 9,
+            "current_away_rank": 12
+        },
+        {
+            "match_date": "31.01.",
+            "home_team": "Liverpool",
+            "home_team_score": "4",
+            "away_team": "Chelsea",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 3,
+            "current_away_rank": 6
+        },
+        {
+            "match_date": "31.01.",
+            "home_team": "Manchester City",
+            "home_team_score": "3",
+            "away_team": "Burnley",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 1,
+            "current_away_rank": 19
+        },
+        {
+            "match_date": "31.01.",
+            "home_team": "Tottenham",
+            "home_team_score": "3",
+            "away_team": "Brentford",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 5,
+            "current_away_rank": 16
+        },
+        {
+            "match_date": "30.01.",
+            "home_team": "Aston Villa",
+            "home_team_score": "1",
+            "away_team": "Newcastle",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 4,
+            "current_away_rank": 7
+        },
+        {
+            "match_date": "30.01.",
+            "home_team": "Crystal Palace",
+            "home_team_score": "3",
+            "away_team": "Sheffield Utd",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 10,
+            "current_away_rank": 20
+        },
+        {
+            "match_date": "30.01.",
+            "home_team": "Fulham",
+            "home_team_score": "0",
+            "away_team": "Everton",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 13,
+            "current_away_rank": 15
+        },
+        {
+            "match_date": "30.01.",
+            "home_team": "Luton",
+            "home_team_score": "4",
+            "away_team": "Brighton",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 18,
+            "current_away_rank": 11
+        },
+        {
+            "match_date": "30.01.",
+            "home_team": "Nottingham",
+            "home_team_score": "1",
+            "away_team": "Arsenal",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 17,
+            "current_away_rank": 2
+        },
+        {
+            "match_date": "22.01.",
+            "home_team": "Brighton",
+            "home_team_score": "0",
+            "away_team": "Wolves",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 11,
+            "current_away_rank": 14
+        },
+        {
+            "match_date": "21.01.",
+            "home_team": "Bournemouth",
+            "home_team_score": "0",
+            "away_team": "Liverpool",
+            "away_team_score": "4",
+            "season": "2023/2024",
+            "current_home_rank": 12,
+            "current_away_rank": 3
+        },
+        {
+            "match_date": "21.01.",
+            "home_team": "Sheffield Utd",
+            "home_team_score": "2",
+            "away_team": "West Ham",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 20,
+            "current_away_rank": 9
+        },
+        {
+            "match_date": "20.01.",
+            "home_team": "Brentford",
+            "home_team_score": "3",
+            "away_team": "Nottingham",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 16,
+            "current_away_rank": 17
+        },
+        {
+            "match_date": "20.01.",
+            "home_team": "Arsenal",
+            "home_team_score": "5",
+            "away_team": "Crystal Palace",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 2,
+            "current_away_rank": 10
+        },
+        {
+            "match_date": "14.01.",
+            "home_team": "Manchester Utd",
+            "home_team_score": "2",
+            "away_team": "Tottenham",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 8,
+            "current_away_rank": 5
+        },
+        {
+            "match_date": "14.01.",
+            "home_team": "Everton",
+            "home_team_score": "0",
+            "away_team": "Aston Villa",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 15,
+            "current_away_rank": 4
+        },
+        {
+            "match_date": "13.01.",
+            "home_team": "Newcastle",
+            "home_team_score": "2",
+            "away_team": "Manchester City",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 7,
+            "current_away_rank": 1
+        },
+        {
+            "match_date": "13.01.",
+            "home_team": "Chelsea",
+            "home_team_score": "1",
+            "away_team": "Fulham",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 6,
+            "current_away_rank": 13
+        },
+        {
+            "match_date": "12.01.",
+            "home_team": "Burnley",
+            "home_team_score": "1",
+            "away_team": "Luton",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 19,
+            "current_away_rank": 18
+        },
+        {
+            "match_date": "02.01.",
+            "home_team": "West Ham",
+            "home_team_score": "0",
+            "away_team": "Brighton",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 9,
+            "current_away_rank": 11
+        },
+        {
+            "match_date": "01.01.",
+            "home_team": "Liverpool",
+            "home_team_score": "4",
+            "away_team": "Newcastle",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 3,
+            "current_away_rank": 7
+        },
+        {
+            "match_date": "31.12.",
+            "home_team": "Fulham",
+            "home_team_score": "2",
+            "away_team": "Arsenal",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 13,
+            "current_away_rank": 2
+        },
+        {
+            "match_date": "31.12.",
+            "home_team": "Tottenham",
+            "home_team_score": "3",
+            "away_team": "Bournemouth",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 5,
+            "current_away_rank": 12
+        },
+        {
+            "match_date": "30.12.",
+            "home_team": "Nottingham",
+            "home_team_score": "2",
+            "away_team": "Manchester Utd",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 17,
+            "current_away_rank": 8
+        },
+        {
+            "match_date": "30.12.",
+            "home_team": "Aston Villa",
+            "home_team_score": "3",
+            "away_team": "Burnley",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 4,
+            "current_away_rank": 19
+        },
+        {
+            "match_date": "30.12.",
+            "home_team": "Crystal Palace",
+            "home_team_score": "3",
+            "away_team": "Brentford",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 10,
+            "current_away_rank": 16
+        },
+        {
+            "match_date": "30.12.",
+            "home_team": "Manchester City",
+            "home_team_score": "2",
+            "away_team": "Sheffield Utd",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 1,
+            "current_away_rank": 20
+        },
+        {
+            "match_date": "30.12.",
+            "home_team": "Wolves",
+            "home_team_score": "3",
+            "away_team": "Everton",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 14,
+            "current_away_rank": 15
+        },
+        {
+            "match_date": "30.12.",
+            "home_team": "Luton",
+            "home_team_score": "2",
+            "away_team": "Chelsea",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 18,
+            "current_away_rank": 6
+        },
+        {
+            "match_date": "28.12.",
+            "home_team": "Arsenal",
+            "home_team_score": "0",
+            "away_team": "West Ham",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 2,
+            "current_away_rank": 9
+        },
+        {
+            "match_date": "28.12.",
+            "home_team": "Brighton",
+            "home_team_score": "4",
+            "away_team": "Tottenham",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 11,
+            "current_away_rank": 5
+        },
+        {
+            "match_date": "27.12.",
+            "home_team": "Everton",
+            "home_team_score": "1",
+            "away_team": "Manchester City",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 15,
+            "current_away_rank": 1
+        },
+        {
+            "match_date": "27.12.",
+            "home_team": "Brentford",
+            "home_team_score": "1",
+            "away_team": "Wolves",
+            "away_team_score": "4",
+            "season": "2023/2024",
+            "current_home_rank": 16,
+            "current_away_rank": 14
+        },
+        {
+            "match_date": "27.12.",
+            "home_team": "Chelsea",
+            "home_team_score": "2",
+            "away_team": "Crystal Palace",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 6,
+            "current_away_rank": 10
+        },
+        {
+            "match_date": "26.12.",
+            "home_team": "Manchester Utd",
+            "home_team_score": "3",
+            "away_team": "Aston Villa",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 8,
+            "current_away_rank": 4
+        },
+        {
+            "match_date": "26.12.",
+            "home_team": "Burnley",
+            "home_team_score": "0",
+            "away_team": "Liverpool",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 19,
+            "current_away_rank": 3
+        },
+        {
+            "match_date": "26.12.",
+            "home_team": "Bournemouth",
+            "home_team_score": "3",
+            "away_team": "Fulham",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 12,
+            "current_away_rank": 13
+        },
+        {
+            "match_date": "26.12.",
+            "home_team": "Sheffield Utd",
+            "home_team_score": "2",
+            "away_team": "Luton",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 20,
+            "current_away_rank": 18
+        },
+        {
+            "match_date": "26.12.",
+            "home_team": "Newcastle",
+            "home_team_score": "1",
+            "away_team": "Nottingham",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 7,
+            "current_away_rank": 17
+        },
+        {
+            "match_date": "24.12.",
+            "home_team": "Wolves",
+            "home_team_score": "2",
+            "away_team": "Chelsea",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 14,
+            "current_away_rank": 6
+        },
+        {
+            "match_date": "23.12.",
+            "home_team": "Liverpool",
+            "home_team_score": "1",
+            "away_team": "Arsenal",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 3,
+            "current_away_rank": 2
+        },
+        {
+            "match_date": "23.12.",
+            "home_team": "Fulham",
+            "home_team_score": "0",
+            "away_team": "Burnley",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 13,
+            "current_away_rank": 19
+        },
+        {
+            "match_date": "23.12.",
+            "home_team": "Luton",
+            "home_team_score": "1",
+            "away_team": "Newcastle",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 18,
+            "current_away_rank": 7
+        },
+        {
+            "match_date": "23.12.",
+            "home_team": "Nottingham",
+            "home_team_score": "2",
+            "away_team": "Bournemouth",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 17,
+            "current_away_rank": 12
+        },
+        {
+            "match_date": "23.12.",
+            "home_team": "Tottenham",
+            "home_team_score": "2",
+            "away_team": "Everton",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 5,
+            "current_away_rank": 15
+        },
+        {
+            "match_date": "23.12.",
+            "home_team": "West Ham",
+            "home_team_score": "2",
+            "away_team": "Manchester Utd",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 9,
+            "current_away_rank": 8
+        },
+        {
+            "match_date": "22.12.",
+            "home_team": "Aston Villa",
+            "home_team_score": "1",
+            "away_team": "Sheffield Utd",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 4,
+            "current_away_rank": 20
+        },
+        {
+            "match_date": "21.12.",
+            "home_team": "Crystal Palace",
+            "home_team_score": "1",
+            "away_team": "Brighton",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 10,
+            "current_away_rank": 11
+        },
+        {
+            "match_date": "17.12.",
+            "home_team": "Liverpool",
+            "home_team_score": "0",
+            "away_team": "Manchester Utd",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 3,
+            "current_away_rank": 8
+        },
+        {
+            "match_date": "17.12.",
+            "home_team": "Arsenal",
+            "home_team_score": "2",
+            "away_team": "Brighton",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 2,
+            "current_away_rank": 11
+        },
+        {
+            "match_date": "17.12.",
+            "home_team": "Brentford",
+            "home_team_score": "1",
+            "away_team": "Aston Villa",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 16,
+            "current_away_rank": 4
+        },
+        {
+            "match_date": "17.12.",
+            "home_team": "West Ham",
+            "home_team_score": "3",
+            "away_team": "Wolves",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 9,
+            "current_away_rank": 14
+        },
+        {
+            "match_date": "16.12.",
+            "home_team": "Burnley",
+            "home_team_score": "0",
+            "away_team": "Everton",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 19,
+            "current_away_rank": 15
+        },
+        {
+            "match_date": "16.12.",
+            "home_team": "Chelsea",
+            "home_team_score": "2",
+            "away_team": "Sheffield Utd",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 6,
+            "current_away_rank": 20
+        },
+        {
+            "match_date": "16.12.",
+            "home_team": "Manchester City",
+            "home_team_score": "2",
+            "away_team": "Crystal Palace",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 1,
+            "current_away_rank": 10
+        },
+        {
+            "match_date": "16.12.",
+            "home_team": "Newcastle",
+            "home_team_score": "3",
+            "away_team": "Fulham",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 7,
+            "current_away_rank": 13
+        },
+        {
+            "match_date": "15.12.",
+            "home_team": "Nottingham",
+            "home_team_score": "0",
+            "away_team": "Tottenham",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 17,
+            "current_away_rank": 5
+        },
+        {
+            "match_date": "10.12.",
+            "home_team": "Tottenham",
+            "home_team_score": "4",
+            "away_team": "Newcastle",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 5,
+            "current_away_rank": 7
+        },
+        {
+            "match_date": "10.12.",
+            "home_team": "Everton",
+            "home_team_score": "2",
+            "away_team": "Chelsea",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 15,
+            "current_away_rank": 6
+        },
+        {
+            "match_date": "10.12.",
+            "home_team": "Fulham",
+            "home_team_score": "5",
+            "away_team": "West Ham",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 13,
+            "current_away_rank": 9
+        },
+        {
+            "match_date": "10.12.",
+            "home_team": "Luton",
+            "home_team_score": "1",
+            "away_team": "Manchester City",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 18,
+            "current_away_rank": 1
+        },
+        {
+            "match_date": "09.12.",
+            "home_team": "Aston Villa",
+            "home_team_score": "1",
+            "away_team": "Arsenal",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 4,
+            "current_away_rank": 2
+        },
+        {
+            "match_date": "09.12.",
+            "home_team": "Brighton",
+            "home_team_score": "1",
+            "away_team": "Burnley",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 11,
+            "current_away_rank": 19
+        },
+        {
+            "match_date": "09.12.",
+            "home_team": "Manchester Utd",
+            "home_team_score": "0",
+            "away_team": "Bournemouth",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 8,
+            "current_away_rank": 12
+        },
+        {
+            "match_date": "09.12.",
+            "home_team": "Sheffield Utd",
+            "home_team_score": "1",
+            "away_team": "Brentford",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 20,
+            "current_away_rank": 16
+        },
+        {
+            "match_date": "09.12.",
+            "home_team": "Wolves",
+            "home_team_score": "1",
+            "away_team": "Nottingham",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 14,
+            "current_away_rank": 17
+        },
+        {
+            "match_date": "09.12.",
+            "home_team": "Crystal Palace",
+            "home_team_score": "1",
+            "away_team": "Liverpool",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 10,
+            "current_away_rank": 3
+        },
+        {
+            "match_date": "07.12.",
+            "home_team": "Tottenham",
+            "home_team_score": "1",
+            "away_team": "West Ham",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 5,
+            "current_away_rank": 9
+        },
+        {
+            "match_date": "07.12.",
+            "home_team": "Everton",
+            "home_team_score": "3",
+            "away_team": "Newcastle",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 15,
+            "current_away_rank": 7
+        },
+        {
+            "match_date": "06.12.",
+            "home_team": "Aston Villa",
+            "home_team_score": "1",
+            "away_team": "Manchester City",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 4,
+            "current_away_rank": 1
+        },
+        {
+            "match_date": "06.12.",
+            "home_team": "Manchester Utd",
+            "home_team_score": "2",
+            "away_team": "Chelsea",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 8,
+            "current_away_rank": 6
+        },
+        {
+            "match_date": "06.12.",
+            "home_team": "Brighton",
+            "home_team_score": "2",
+            "away_team": "Brentford",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 11,
+            "current_away_rank": 16
+        },
+        {
+            "match_date": "06.12.",
+            "home_team": "Crystal Palace",
+            "home_team_score": "0",
+            "away_team": "Bournemouth",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 10,
+            "current_away_rank": 12
+        },
+        {
+            "match_date": "06.12.",
+            "home_team": "Fulham",
+            "home_team_score": "5",
+            "away_team": "Nottingham",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 13,
+            "current_away_rank": 17
+        },
+        {
+            "match_date": "06.12.",
+            "home_team": "Sheffield Utd",
+            "home_team_score": "0",
+            "away_team": "Liverpool",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 20,
+            "current_away_rank": 3
+        },
+        {
+            "match_date": "05.12.",
+            "home_team": "Luton",
+            "home_team_score": "3",
+            "away_team": "Arsenal",
+            "away_team_score": "4",
+            "season": "2023/2024",
+            "current_home_rank": 18,
+            "current_away_rank": 2
+        },
+        {
+            "match_date": "05.12.",
+            "home_team": "Wolves",
+            "home_team_score": "1",
+            "away_team": "Burnley",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 14,
+            "current_away_rank": 19
+        },
+        {
+            "match_date": "03.12.",
+            "home_team": "Manchester City",
+            "home_team_score": "3",
+            "away_team": "Tottenham",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 1,
+            "current_away_rank": 5
+        },
+        {
+            "match_date": "03.12.",
+            "home_team": "Bournemouth",
+            "home_team_score": "2",
+            "away_team": "Aston Villa",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 12,
+            "current_away_rank": 4
+        },
+        {
+            "match_date": "03.12.",
+            "home_team": "Chelsea",
+            "home_team_score": "3",
+            "away_team": "Brighton",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 6,
+            "current_away_rank": 11
+        },
+        {
+            "match_date": "03.12.",
+            "home_team": "Liverpool",
+            "home_team_score": "4",
+            "away_team": "Fulham",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 3,
+            "current_away_rank": 13
+        },
+        {
+            "match_date": "03.12.",
+            "home_team": "West Ham",
+            "home_team_score": "1",
+            "away_team": "Crystal Palace",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 9,
+            "current_away_rank": 10
+        },
+        {
+            "match_date": "02.12.",
+            "home_team": "Newcastle",
+            "home_team_score": "1",
+            "away_team": "Manchester Utd",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 7,
+            "current_away_rank": 8
+        },
+        {
+            "match_date": "02.12.",
+            "home_team": "Nottingham",
+            "home_team_score": "0",
+            "away_team": "Everton",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 17,
+            "current_away_rank": 15
+        },
+        {
+            "match_date": "02.12.",
+            "home_team": "Arsenal",
+            "home_team_score": "2",
+            "away_team": "Wolves",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 2,
+            "current_away_rank": 14
+        },
+        {
+            "match_date": "02.12.",
+            "home_team": "Brentford",
+            "home_team_score": "3",
+            "away_team": "Luton",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 16,
+            "current_away_rank": 18
+        },
+        {
+            "match_date": "02.12.",
+            "home_team": "Burnley",
+            "home_team_score": "5",
+            "away_team": "Sheffield Utd",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 19,
+            "current_away_rank": 20
+        },
+        {
+            "match_date": "27.11.",
+            "home_team": "Fulham",
+            "home_team_score": "3",
+            "away_team": "Wolves",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 13,
+            "current_away_rank": 14
+        },
+        {
+            "match_date": "26.11.",
+            "home_team": "Everton",
+            "home_team_score": "0",
+            "away_team": "Manchester Utd",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 15,
+            "current_away_rank": 8
+        },
+        {
+            "match_date": "26.11.",
+            "home_team": "Tottenham",
+            "home_team_score": "1",
+            "away_team": "Aston Villa",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 5,
+            "current_away_rank": 4
+        },
+        {
+            "match_date": "25.11.",
+            "home_team": "Brentford",
+            "home_team_score": "0",
+            "away_team": "Arsenal",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 16,
+            "current_away_rank": 2
+        },
+        {
+            "match_date": "25.11.",
+            "home_team": "Burnley",
+            "home_team_score": "1",
+            "away_team": "West Ham",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 19,
+            "current_away_rank": 9
+        },
+        {
+            "match_date": "25.11.",
+            "home_team": "Luton",
+            "home_team_score": "2",
+            "away_team": "Crystal Palace",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 18,
+            "current_away_rank": 10
+        },
+        {
+            "match_date": "25.11.",
+            "home_team": "Newcastle",
+            "home_team_score": "4",
+            "away_team": "Chelsea",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 7,
+            "current_away_rank": 6
+        },
+        {
+            "match_date": "25.11.",
+            "home_team": "Nottingham",
+            "home_team_score": "2",
+            "away_team": "Brighton",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 17,
+            "current_away_rank": 11
+        },
+        {
+            "match_date": "25.11.",
+            "home_team": "Sheffield Utd",
+            "home_team_score": "1",
+            "away_team": "Bournemouth",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 20,
+            "current_away_rank": 12
+        },
+        {
+            "match_date": "25.11.",
+            "home_team": "Manchester City",
+            "home_team_score": "1",
+            "away_team": "Liverpool",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 1,
+            "current_away_rank": 3
+        },
+        {
+            "match_date": "12.11.",
+            "home_team": "Chelsea",
+            "home_team_score": "4",
+            "away_team": "Manchester City",
+            "away_team_score": "4",
+            "season": "2023/2024",
+            "current_home_rank": 6,
+            "current_away_rank": 1
+        },
+        {
+            "match_date": "12.11.",
+            "home_team": "Aston Villa",
+            "home_team_score": "3",
+            "away_team": "Fulham",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 4,
+            "current_away_rank": 13
+        },
+        {
+            "match_date": "12.11.",
+            "home_team": "Brighton",
+            "home_team_score": "1",
+            "away_team": "Sheffield Utd",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 11,
+            "current_away_rank": 20
+        },
+        {
+            "match_date": "12.11.",
+            "home_team": "Liverpool",
+            "home_team_score": "3",
+            "away_team": "Brentford",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 3,
+            "current_away_rank": 16
+        },
+        {
+            "match_date": "12.11.",
+            "home_team": "West Ham",
+            "home_team_score": "3",
+            "away_team": "Nottingham",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 9,
+            "current_away_rank": 17
+        },
+        {
+            "match_date": "11.11.",
+            "home_team": "Bournemouth",
+            "home_team_score": "2",
+            "away_team": "Newcastle",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 12,
+            "current_away_rank": 7
+        },
+        {
+            "match_date": "11.11.",
+            "home_team": "Arsenal",
+            "home_team_score": "3",
+            "away_team": "Burnley",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 2,
+            "current_away_rank": 19
+        },
+        {
+            "match_date": "11.11.",
+            "home_team": "Crystal Palace",
+            "home_team_score": "2",
+            "away_team": "Everton",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 10,
+            "current_away_rank": 15
+        },
+        {
+            "match_date": "11.11.",
+            "home_team": "Manchester Utd",
+            "home_team_score": "1",
+            "away_team": "Luton",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 8,
+            "current_away_rank": 18
+        },
+        {
+            "match_date": "11.11.",
+            "home_team": "Wolves",
+            "home_team_score": "2",
+            "away_team": "Tottenham",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 14,
+            "current_away_rank": 5
+        },
+        {
+            "match_date": "06.11.",
+            "home_team": "Tottenham",
+            "home_team_score": "1",
+            "away_team": "Chelsea",
+            "away_team_score": "4",
+            "season": "2023/2024",
+            "current_home_rank": 5,
+            "current_away_rank": 6
+        },
+        {
+            "match_date": "05.11.",
+            "home_team": "Luton",
+            "home_team_score": "1",
+            "away_team": "Liverpool",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 18,
+            "current_away_rank": 3
+        },
+        {
+            "match_date": "05.11.",
+            "home_team": "Nottingham",
+            "home_team_score": "2",
+            "away_team": "Aston Villa",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 17,
+            "current_away_rank": 4
+        },
+        {
+            "match_date": "04.11.",
+            "home_team": "Newcastle",
+            "home_team_score": "1",
+            "away_team": "Arsenal",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 7,
+            "current_away_rank": 2
+        },
+        {
+            "match_date": "04.11.",
+            "home_team": "Brentford",
+            "home_team_score": "3",
+            "away_team": "West Ham",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 16,
+            "current_away_rank": 9
+        },
+        {
+            "match_date": "04.11.",
+            "home_team": "Burnley",
+            "home_team_score": "0",
+            "away_team": "Crystal Palace",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 19,
+            "current_away_rank": 10
+        },
+        {
+            "match_date": "04.11.",
+            "home_team": "Everton",
+            "home_team_score": "1",
+            "away_team": "Brighton",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 15,
+            "current_away_rank": 11
+        },
+        {
+            "match_date": "04.11.",
+            "home_team": "Manchester City",
+            "home_team_score": "6",
+            "away_team": "Bournemouth",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 1,
+            "current_away_rank": 12
+        },
+        {
+            "match_date": "04.11.",
+            "home_team": "Sheffield Utd",
+            "home_team_score": "2",
+            "away_team": "Wolves",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 20,
+            "current_away_rank": 14
+        },
+        {
+            "match_date": "04.11.",
+            "home_team": "Fulham",
+            "home_team_score": "0",
+            "away_team": "Manchester Utd",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 13,
+            "current_away_rank": 8
+        },
+        {
+            "match_date": "29.10.",
+            "home_team": "Manchester Utd",
+            "home_team_score": "0",
+            "away_team": "Manchester City",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 8,
+            "current_away_rank": 1
+        },
+        {
+            "match_date": "29.10.",
+            "home_team": "Aston Villa",
+            "home_team_score": "3",
+            "away_team": "Luton",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 4,
+            "current_away_rank": 18
+        },
+        {
+            "match_date": "29.10.",
+            "home_team": "Brighton",
+            "home_team_score": "1",
+            "away_team": "Fulham",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 11,
+            "current_away_rank": 13
+        },
+        {
+            "match_date": "29.10.",
+            "home_team": "Liverpool",
+            "home_team_score": "3",
+            "away_team": "Nottingham",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 3,
+            "current_away_rank": 17
+        },
+        {
+            "match_date": "29.10.",
+            "home_team": "West Ham",
+            "home_team_score": "0",
+            "away_team": "Everton",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 9,
+            "current_away_rank": 15
+        },
+        {
+            "match_date": "28.10.",
+            "home_team": "Wolves",
+            "home_team_score": "2",
+            "away_team": "Newcastle",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 14,
+            "current_away_rank": 7
+        },
+        {
+            "match_date": "28.10.",
+            "home_team": "Arsenal",
+            "home_team_score": "5",
+            "away_team": "Sheffield Utd",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 2,
+            "current_away_rank": 20
+        },
+        {
+            "match_date": "28.10.",
+            "home_team": "Bournemouth",
+            "home_team_score": "2",
+            "away_team": "Burnley",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 12,
+            "current_away_rank": 19
+        },
+        {
+            "match_date": "28.10.",
+            "home_team": "Chelsea",
+            "home_team_score": "0",
+            "away_team": "Brentford",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 6,
+            "current_away_rank": 16
+        },
+        {
+            "match_date": "27.10.",
+            "home_team": "Crystal Palace",
+            "home_team_score": "1",
+            "away_team": "Tottenham",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 10,
+            "current_away_rank": 5
+        },
+        {
+            "match_date": "23.10.",
+            "home_team": "Tottenham",
+            "home_team_score": "2",
+            "away_team": "Fulham",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 5,
+            "current_away_rank": 13
+        },
+        {
+            "match_date": "22.10.",
+            "home_team": "Aston Villa",
+            "home_team_score": "4",
+            "away_team": "West Ham",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 4,
+            "current_away_rank": 9
+        },
+        {
+            "match_date": "21.10.",
+            "home_team": "Sheffield Utd",
+            "home_team_score": "1",
+            "away_team": "Manchester Utd",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 20,
+            "current_away_rank": 8
+        },
+        {
+            "match_date": "21.10.",
+            "home_team": "Chelsea",
+            "home_team_score": "2",
+            "away_team": "Arsenal",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 6,
+            "current_away_rank": 2
+        },
+        {
+            "match_date": "21.10.",
+            "home_team": "Bournemouth",
+            "home_team_score": "1",
+            "away_team": "Wolves",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 12,
+            "current_away_rank": 14
+        },
+        {
+            "match_date": "21.10.",
+            "home_team": "Brentford",
+            "home_team_score": "3",
+            "away_team": "Burnley",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 16,
+            "current_away_rank": 19
+        },
+        {
+            "match_date": "21.10.",
+            "home_team": "Manchester City",
+            "home_team_score": "2",
+            "away_team": "Brighton",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 1,
+            "current_away_rank": 11
+        },
+        {
+            "match_date": "21.10.",
+            "home_team": "Newcastle",
+            "home_team_score": "4",
+            "away_team": "Crystal Palace",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 7,
+            "current_away_rank": 10
+        },
+        {
+            "match_date": "21.10.",
+            "home_team": "Nottingham",
+            "home_team_score": "2",
+            "away_team": "Luton",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 17,
+            "current_away_rank": 18
+        },
+        {
+            "match_date": "21.10.",
+            "home_team": "Liverpool",
+            "home_team_score": "2",
+            "away_team": "Everton",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 3,
+            "current_away_rank": 15
+        },
+        {
+            "match_date": "08.10.",
+            "home_team": "Arsenal",
+            "home_team_score": "1",
+            "away_team": "Manchester City",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 2,
+            "current_away_rank": 1
+        },
+        {
+            "match_date": "08.10.",
+            "home_team": "Brighton",
+            "home_team_score": "2",
+            "away_team": "Liverpool",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 11,
+            "current_away_rank": 3
+        },
+        {
+            "match_date": "08.10.",
+            "home_team": "West Ham",
+            "home_team_score": "2",
+            "away_team": "Newcastle",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 9,
+            "current_away_rank": 7
+        },
+        {
+            "match_date": "08.10.",
+            "home_team": "Wolves",
+            "home_team_score": "1",
+            "away_team": "Aston Villa",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 14,
+            "current_away_rank": 4
+        },
+        {
+            "match_date": "07.10.",
+            "home_team": "Crystal Palace",
+            "home_team_score": "0",
+            "away_team": "Nottingham",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 10,
+            "current_away_rank": 17
+        },
+        {
+            "match_date": "07.10.",
+            "home_team": "Burnley",
+            "home_team_score": "1",
+            "away_team": "Chelsea",
+            "away_team_score": "4",
+            "season": "2023/2024",
+            "current_home_rank": 19,
+            "current_away_rank": 6
+        },
+        {
+            "match_date": "07.10.",
+            "home_team": "Everton",
+            "home_team_score": "3",
+            "away_team": "Bournemouth",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 15,
+            "current_away_rank": 12
+        },
+        {
+            "match_date": "07.10.",
+            "home_team": "Fulham",
+            "home_team_score": "3",
+            "away_team": "Sheffield Utd",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 13,
+            "current_away_rank": 20
+        },
+        {
+            "match_date": "07.10.",
+            "home_team": "Manchester Utd",
+            "home_team_score": "2",
+            "away_team": "Brentford",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 8,
+            "current_away_rank": 16
+        },
+        {
+            "match_date": "07.10.",
+            "home_team": "Luton",
+            "home_team_score": "0",
+            "away_team": "Tottenham",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 18,
+            "current_away_rank": 5
+        },
+        {
+            "match_date": "03.10.",
+            "home_team": "Luton",
+            "home_team_score": "1",
+            "away_team": "Burnley",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 18,
+            "current_away_rank": 19
+        },
+        {
+            "match_date": "02.10.",
+            "home_team": "Fulham",
+            "home_team_score": "0",
+            "away_team": "Chelsea",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 13,
+            "current_away_rank": 6
+        },
+        {
+            "match_date": "01.10.",
+            "home_team": "Nottingham",
+            "home_team_score": "1",
+            "away_team": "Brentford",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 17,
+            "current_away_rank": 16
+        },
+        {
+            "match_date": "30.09.",
+            "home_team": "Tottenham",
+            "home_team_score": "2",
+            "away_team": "Liverpool",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 5,
+            "current_away_rank": 3
+        },
+        {
+            "match_date": "30.09.",
+            "home_team": "Bournemouth",
+            "home_team_score": "0",
+            "away_team": "Arsenal",
+            "away_team_score": "4",
+            "season": "2023/2024",
+            "current_home_rank": 12,
+            "current_away_rank": 2
+        },
+        {
+            "match_date": "30.09.",
+            "home_team": "Everton",
+            "home_team_score": "1",
+            "away_team": "Luton",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 15,
+            "current_away_rank": 18
+        },
+        {
+            "match_date": "30.09.",
+            "home_team": "Manchester Utd",
+            "home_team_score": "0",
+            "away_team": "Crystal Palace",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 8,
+            "current_away_rank": 10
+        },
+        {
+            "match_date": "30.09.",
+            "home_team": "Newcastle",
+            "home_team_score": "2",
+            "away_team": "Burnley",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 7,
+            "current_away_rank": 19
+        },
+        {
+            "match_date": "30.09.",
+            "home_team": "West Ham",
+            "home_team_score": "2",
+            "away_team": "Sheffield Utd",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 9,
+            "current_away_rank": 20
+        },
+        {
+            "match_date": "30.09.",
+            "home_team": "Wolves",
+            "home_team_score": "2",
+            "away_team": "Manchester City",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 14,
+            "current_away_rank": 1
+        },
+        {
+            "match_date": "30.09.",
+            "home_team": "Aston Villa",
+            "home_team_score": "6",
+            "away_team": "Brighton",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 4,
+            "current_away_rank": 11
+        },
+        {
+            "match_date": "24.09.",
+            "home_team": "Sheffield Utd",
+            "home_team_score": "0",
+            "away_team": "Newcastle",
+            "away_team_score": "8",
+            "season": "2023/2024",
+            "current_home_rank": 20,
+            "current_away_rank": 7
+        },
+        {
+            "match_date": "24.09.",
+            "home_team": "Arsenal",
+            "home_team_score": "2",
+            "away_team": "Tottenham",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 2,
+            "current_away_rank": 5
+        },
+        {
+            "match_date": "24.09.",
+            "home_team": "Brighton",
+            "home_team_score": "3",
+            "away_team": "Bournemouth",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 11,
+            "current_away_rank": 12
+        },
+        {
+            "match_date": "24.09.",
+            "home_team": "Chelsea",
+            "home_team_score": "0",
+            "away_team": "Aston Villa",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 6,
+            "current_away_rank": 4
+        },
+        {
+            "match_date": "24.09.",
+            "home_team": "Liverpool",
+            "home_team_score": "3",
+            "away_team": "West Ham",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 3,
+            "current_away_rank": 9
+        },
+        {
+            "match_date": "23.09.",
+            "home_team": "Burnley",
+            "home_team_score": "0",
+            "away_team": "Manchester Utd",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 19,
+            "current_away_rank": 8
+        },
+        {
+            "match_date": "23.09.",
+            "home_team": "Brentford",
+            "home_team_score": "1",
+            "away_team": "Everton",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 16,
+            "current_away_rank": 15
+        },
+        {
+            "match_date": "23.09.",
+            "home_team": "Crystal Palace",
+            "home_team_score": "0",
+            "away_team": "Fulham",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 10,
+            "current_away_rank": 13
+        },
+        {
+            "match_date": "23.09.",
+            "home_team": "Luton",
+            "home_team_score": "1",
+            "away_team": "Wolves",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 18,
+            "current_away_rank": 14
+        },
+        {
+            "match_date": "23.09.",
+            "home_team": "Manchester City",
+            "home_team_score": "2",
+            "away_team": "Nottingham",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 1,
+            "current_away_rank": 17
+        },
+        {
+            "match_date": "18.09.",
+            "home_team": "Nottingham",
+            "home_team_score": "1",
+            "away_team": "Burnley",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 17,
+            "current_away_rank": 19
+        },
+        {
+            "match_date": "17.09.",
+            "home_team": "Everton",
+            "home_team_score": "0",
+            "away_team": "Arsenal",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 15,
+            "current_away_rank": 2
+        },
+        {
+            "match_date": "17.09.",
+            "home_team": "Bournemouth",
+            "home_team_score": "0",
+            "away_team": "Chelsea",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 12,
+            "current_away_rank": 6
+        },
+        {
+            "match_date": "16.09.",
+            "home_team": "Newcastle",
+            "home_team_score": "1",
+            "away_team": "Brentford",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 7,
+            "current_away_rank": 16
+        },
+        {
+            "match_date": "16.09.",
+            "home_team": "Aston Villa",
+            "home_team_score": "3",
+            "away_team": "Crystal Palace",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 4,
+            "current_away_rank": 10
+        },
+        {
+            "match_date": "16.09.",
+            "home_team": "Fulham",
+            "home_team_score": "1",
+            "away_team": "Luton",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 13,
+            "current_away_rank": 18
+        },
+        {
+            "match_date": "16.09.",
+            "home_team": "Manchester Utd",
+            "home_team_score": "1",
+            "away_team": "Brighton",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 8,
+            "current_away_rank": 11
+        },
+        {
+            "match_date": "16.09.",
+            "home_team": "Tottenham",
+            "home_team_score": "2",
+            "away_team": "Sheffield Utd",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 5,
+            "current_away_rank": 20
+        },
+        {
+            "match_date": "16.09.",
+            "home_team": "West Ham",
+            "home_team_score": "1",
+            "away_team": "Manchester City",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 9,
+            "current_away_rank": 1
+        },
+        {
+            "match_date": "16.09.",
+            "home_team": "Wolves",
+            "home_team_score": "1",
+            "away_team": "Liverpool",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 14,
+            "current_away_rank": 3
+        },
+        {
+            "match_date": "03.09.",
+            "home_team": "Arsenal",
+            "home_team_score": "3",
+            "away_team": "Manchester Utd",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 2,
+            "current_away_rank": 8
+        },
+        {
+            "match_date": "03.09.",
+            "home_team": "Crystal Palace",
+            "home_team_score": "3",
+            "away_team": "Wolves",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 10,
+            "current_away_rank": 14
+        },
+        {
+            "match_date": "03.09.",
+            "home_team": "Liverpool",
+            "home_team_score": "3",
+            "away_team": "Aston Villa",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 3,
+            "current_away_rank": 4
+        },
+        {
+            "match_date": "02.09.",
+            "home_team": "Brighton",
+            "home_team_score": "3",
+            "away_team": "Newcastle",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 11,
+            "current_away_rank": 7
+        },
+        {
+            "match_date": "02.09.",
+            "home_team": "Brentford",
+            "home_team_score": "2",
+            "away_team": "Bournemouth",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 16,
+            "current_away_rank": 12
+        },
+        {
+            "match_date": "02.09.",
+            "home_team": "Burnley",
+            "home_team_score": "2",
+            "away_team": "Tottenham",
+            "away_team_score": "5",
+            "season": "2023/2024",
+            "current_home_rank": 19,
+            "current_away_rank": 5
+        },
+        {
+            "match_date": "02.09.",
+            "home_team": "Chelsea",
+            "home_team_score": "0",
+            "away_team": "Nottingham",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 6,
+            "current_away_rank": 17
+        },
+        {
+            "match_date": "02.09.",
+            "home_team": "Manchester City",
+            "home_team_score": "5",
+            "away_team": "Fulham",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 1,
+            "current_away_rank": 13
+        },
+        {
+            "match_date": "02.09.",
+            "home_team": "Sheffield Utd",
+            "home_team_score": "2",
+            "away_team": "Everton",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 20,
+            "current_away_rank": 15
+        },
+        {
+            "match_date": "01.09.",
+            "home_team": "Luton",
+            "home_team_score": "1",
+            "away_team": "West Ham",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 18,
+            "current_away_rank": 9
+        },
+        {
+            "match_date": "27.08.",
+            "home_team": "Newcastle",
+            "home_team_score": "1",
+            "away_team": "Liverpool",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 7,
+            "current_away_rank": 3
+        },
+        {
+            "match_date": "27.08.",
+            "home_team": "Burnley",
+            "home_team_score": "1",
+            "away_team": "Aston Villa",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 19,
+            "current_away_rank": 4
+        },
+        {
+            "match_date": "27.08.",
+            "home_team": "Sheffield Utd",
+            "home_team_score": "1",
+            "away_team": "Manchester City",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 20,
+            "current_away_rank": 1
+        },
+        {
+            "match_date": "26.08.",
+            "home_team": "Brighton",
+            "home_team_score": "1",
+            "away_team": "West Ham",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 11,
+            "current_away_rank": 9
+        },
+        {
+            "match_date": "26.08.",
+            "home_team": "Arsenal",
+            "home_team_score": "2",
+            "away_team": "Fulham",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 2,
+            "current_away_rank": 13
+        },
+        {
+            "match_date": "26.08.",
+            "home_team": "Brentford",
+            "home_team_score": "1",
+            "away_team": "Crystal Palace",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 16,
+            "current_away_rank": 10
+        },
+        {
+            "match_date": "26.08.",
+            "home_team": "Everton",
+            "home_team_score": "0",
+            "away_team": "Wolves",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 15,
+            "current_away_rank": 14
+        },
+        {
+            "match_date": "26.08.",
+            "home_team": "Manchester Utd",
+            "home_team_score": "3",
+            "away_team": "Nottingham",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 8,
+            "current_away_rank": 17
+        },
+        {
+            "match_date": "26.08.",
+            "home_team": "Bournemouth",
+            "home_team_score": "0",
+            "away_team": "Tottenham",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 12,
+            "current_away_rank": 5
+        },
+        {
+            "match_date": "25.08.",
+            "home_team": "Chelsea",
+            "home_team_score": "3",
+            "away_team": "Luton",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 6,
+            "current_away_rank": 18
+        },
+        {
+            "match_date": "21.08.",
+            "home_team": "Crystal Palace",
+            "home_team_score": "0",
+            "away_team": "Arsenal",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 10,
+            "current_away_rank": 2
+        },
+        {
+            "match_date": "20.08.",
+            "home_team": "West Ham",
+            "home_team_score": "3",
+            "away_team": "Chelsea",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 9,
+            "current_away_rank": 6
+        },
+        {
+            "match_date": "20.08.",
+            "home_team": "Aston Villa",
+            "home_team_score": "4",
+            "away_team": "Everton",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 4,
+            "current_away_rank": 15
+        },
+        {
+            "match_date": "19.08.",
+            "home_team": "Manchester City",
+            "home_team_score": "1",
+            "away_team": "Newcastle",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 1,
+            "current_away_rank": 7
+        },
+        {
+            "match_date": "19.08.",
+            "home_team": "Tottenham",
+            "home_team_score": "2",
+            "away_team": "Manchester Utd",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 5,
+            "current_away_rank": 8
+        },
+        {
+            "match_date": "19.08.",
+            "home_team": "Fulham",
+            "home_team_score": "0",
+            "away_team": "Brentford",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 13,
+            "current_away_rank": 16
+        },
+        {
+            "match_date": "19.08.",
+            "home_team": "Liverpool",
+            "home_team_score": "3",
+            "away_team": "Bournemouth",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 3,
+            "current_away_rank": 12
+        },
+        {
+            "match_date": "19.08.",
+            "home_team": "Wolves",
+            "home_team_score": "1",
+            "away_team": "Brighton",
+            "away_team_score": "4",
+            "season": "2023/2024",
+            "current_home_rank": 14,
+            "current_away_rank": 11
+        },
+        {
+            "match_date": "18.08.",
+            "home_team": "Nottingham",
+            "home_team_score": "2",
+            "away_team": "Sheffield Utd",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 17,
+            "current_away_rank": 20
+        },
+        {
+            "match_date": "14.08.",
+            "home_team": "Manchester Utd",
+            "home_team_score": "1",
+            "away_team": "Wolves",
+            "away_team_score": "0",
+            "season": "2023/2024",
+            "current_home_rank": 8,
+            "current_away_rank": 14
+        },
+        {
+            "match_date": "13.08.",
+            "home_team": "Chelsea",
+            "home_team_score": "1",
+            "away_team": "Liverpool",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 6,
+            "current_away_rank": 3
+        },
+        {
+            "match_date": "13.08.",
+            "home_team": "Brentford",
+            "home_team_score": "2",
+            "away_team": "Tottenham",
+            "away_team_score": "2",
+            "season": "2023/2024",
+            "current_home_rank": 16,
+            "current_away_rank": 5
+        },
+        {
+            "match_date": "12.08.",
+            "home_team": "Newcastle",
+            "home_team_score": "5",
+            "away_team": "Aston Villa",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 7,
+            "current_away_rank": 4
+        },
+        {
+            "match_date": "12.08.",
+            "home_team": "Bournemouth",
+            "home_team_score": "1",
+            "away_team": "West Ham",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 12,
+            "current_away_rank": 9
+        },
+        {
+            "match_date": "12.08.",
+            "home_team": "Brighton",
+            "home_team_score": "4",
+            "away_team": "Luton",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 11,
+            "current_away_rank": 18
+        },
+        {
+            "match_date": "12.08.",
+            "home_team": "Everton",
+            "home_team_score": "0",
+            "away_team": "Fulham",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 15,
+            "current_away_rank": 13
+        },
+        {
+            "match_date": "12.08.",
+            "home_team": "Sheffield Utd",
+            "home_team_score": "0",
+            "away_team": "Crystal Palace",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 20,
+            "current_away_rank": 10
+        },
+        {
+            "match_date": "12.08.",
+            "home_team": "Arsenal",
+            "home_team_score": "2",
+            "away_team": "Nottingham",
+            "away_team_score": "1",
+            "season": "2023/2024",
+            "current_home_rank": 2,
+            "current_away_rank": 17
+        },
+        {
+            "match_date": "11.08.",
+            "home_team": "Burnley",
+            "home_team_score": "0",
+            "away_team": "Manchester City",
+            "away_team_score": "3",
+            "season": "2023/2024",
+            "current_home_rank": 19,
+            "current_away_rank": 1
+        }
+    ]
+}

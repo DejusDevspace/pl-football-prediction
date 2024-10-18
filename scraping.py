@@ -137,7 +137,7 @@ for url in urls:
 
 # Writing the data into a json file...
 try:
-    with open("pl-data-updated.json", "w") as file:
+    with open("data/pl-data-updated.json", "w") as file:
         json.dump(data, file, indent=4)
 except Exception as e:
     print("Error saving data to json:", e)
